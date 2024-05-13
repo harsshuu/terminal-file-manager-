@@ -21,5 +21,5 @@ Want to save some keystrokes? 🤔 Consider setting up an alias for the script i
 ## Contributing
 Got ideas to make this script even better? Awesome! Contributions, bug reports, and feature requests are always welcome. Feel free to open an issue or pull request on GitHub.
 
-## License
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+## What's Next?
+I'm gearing up to level up this file manager with even more awesome features using Go programming. Stay tuned for a more powerful and feature-rich version in the future!
